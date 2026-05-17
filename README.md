@@ -1,95 +1,76 @@
+# Olá, eu sou o [Seu Nome]! 👋
+
 <div align="center">
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hey%2C%20I%27m%20here%20👾&fontSize=50&fontColor=bd93f9&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20dark%20corner%20of%20the%20internet&descSize=18&descAlignY=65&descColor=50fa7b"/>
-<!-- AVATAR / PERSONAGEM -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A7%99%E2%80%8D%E2%99%80%EF%B8%8F+Witch+of+the+Terminal;%F0%9F%9F%A3+Purple+%26+Green+%7C+Dark+Magic+Dev;%E2%9C%A8+Turning+coffee+into+code+since+forever" alt="Typing SVG" />
-<br/>
-<!-- BADGES VISITANTES / ESTRELAS -->
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=bd93f9&label=VISITORS" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/SEU_USERNAME?style=for-the-badge&color=50fa7b&labelColor=282a36" />
+  <!-- Imagem de Decoração Principal (Tema Dracula / Geek) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcxM2I4Yzg0M2M1Y2M5YjVkNzRlY2Y1ZTFkNTY4M2I0Y2M0YjM5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qss01S87nI6ZKG4fbE/giphy.gif" width="600" alt="Dracula Coding Animation">
 </div>
 
-<div align="center">
-🟣 About Me 🟢
-</div>
-bash$ whoami
-> A developer who codes in the dark, powered by purple magic and green terminals ✨
+---
 
-$ cat skills.txt
-> Transforming ideas into reality with clean code & dark aesthetics
+## 💜 Sobre Mim
 
-$ ls -la ./personality
-> curious | creative | problem-solver | night-owl 🦇
+Um desenvolvedor apaixonado por tecnologia, automação e open-source, sempre codando sob o conforto do visual **Dracula Theme** (muito roxo e verde por aqui!). 💻🧪
 
-<div align="center">
-🧙‍♀️ Tech Stack & Spells
-💜 Languages
-<img src="https://skillicons.dev/icons?i=cs,python,ts,js,java,go,php,bash&theme=dark&perline=8" />
-<br/><br/>
-🟢 Web & Markup
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark&perline=8" />
-<br/><br/>
-🔧 Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,linux,docker,vim,neovim&theme=dark&perline=8" />
-<br/><br/>
-🗄️ Data & APIs
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=8" />
-<br/><br/>
-🧪 Testing & Dev Tools
-<!-- Insomnia badge customizado já que skillicons não tem -->
-<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-50fa7b?style=for-the-badge&logo=databricks&logoColor=282a36" />
-</div>
+- 🔭 Atualmente trabalhando em projetos pessoais e profissionais.
+- 🍏 Usuário assíduo de **Linux** e entusiasta do terminal.
+- ⚡ Curiosidade: Se o código não estiver rodando no **Neovim**, tem algo errado.
 
-<div align="center">
-📊 GitHub Stats — In the Dracula Realm
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2&ring_color=bd93f9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"/>
-<br/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula&hide_border=true&background=282a36&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b&sideLabels=bd93f9&dates=f8f8f2&stroke=282a36" />
-</div>
+---
 
-<div align="center">
-🐍 Contribution Snake — Watch it slither!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-</div>
+## 🛠️ Tecnologias e Habilidades
+
+### 💻 Linguagens de Programação & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=512BD4" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow&color=306998" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=007396" alt="Java">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=00ADD8" alt="Go">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=777BB4" alt="PHP">
+</p>
+
+### 🌐 Desenvolvimento Web & Banco de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=CC2927" alt="SQL">
+</p>
+
+### 🔧 Ferramentas, Devops & SysAdmin
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/NeoVim-574453?style=for-the-badge&logo=neovim&logoColor=57A143&color=1E1E2E" alt="Neovim">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&color=4EAA25" alt="Bash">
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white&color=5849BE" alt="Insomnia">
+</p>
+
+---
+
+## 📊 Estatísticas (Estilo Dracula)
 
 <div align="center">
-🎭 Current Vibes
-<img src="https://img.shields.io/badge/Status-Coding%20in%20the%20dark-bd93f9?style=for-the-badge&logo=ghost&logoColor=50fa7b" />
-&nbsp;
-<img src="https://img.shields.io/badge/OS-Linux-50fa7b?style=for-the-badge&logo=linux&logoColor=282a36" />
-&nbsp;
-<img src="https://img.shields.io/badge/Editor-NeoVim-bd93f9?style=for-the-badge&logo=neovim&logoColor=50fa7b" />
-<br/><br/>
-<!-- QUOTE DRACULA -->
-
-"The best code is written after midnight, in the glow of a terminal." 🟣
-
+  <!-- Status do GitHub -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula"/>
 </div>
 
+---
+
+## 💚 Galeria & Decoração
+
 <div align="center">
-🔗 Find me in the shadows
-<!-- Substitua pelos seus links reais -->
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=282a36" />
-</a>
-&nbsp;
-<a href="mailto:SEU@EMAIL.com">
-  <img src="https://img.shields.io/badge/Email-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36" />
-</a>
-&nbsp;
-<a href="https://github.com/SEU_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-ff79c6?style=for-the-badge&logo=github&logoColor=282a36" />
-</a>
-<br/><br/>
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&fontColor=bd93f9&animation=twinkling"/>
+  <!-- Imagens estéticas combinando com Roxo, Verde e Dark Mode -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXpndG1hN2p5YmF5ZzZ6cm9nYms4Y3ZpdmNxZ3R6Z3Z5ZmswdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lo9HTv0969ORV6wfR9/giphy.gif" width="45%" alt="Matrix Purple & Green">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ6MnJkcWphNnY4czV6bmRhc3JhbXNtcjFhcWxlYWpxbXNoOHoxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y3vBvV2Y66Z7wE63zM/giphy.gif" width="45%" alt="Synthwave Grid">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=50fa7b&style=flat-square" alt="Contador de Visitas">
 </div>
